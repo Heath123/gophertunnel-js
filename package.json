@@ -1,0 +1,16 @@
+{
+  "name": "gophertunnel-js",
+  "version": "1.0.0",
+  "description": "gophertunnel bindings for node.js",
+  "main": "gophertunnel.js",
+  "dependencies": {
+    "ffi-napi": "^3.0.1",
+    "ref-struct-napi": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heath123, circuit10#0158, Heath Mitchell, heath.mitchell27@gmail.com",
+  "license": "GPL-3.0-or-later"
+}
